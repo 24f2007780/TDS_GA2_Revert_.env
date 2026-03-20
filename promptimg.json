@@ -1,0 +1,7 @@
+{
+  "prompt": "A realistic cinematic scene of an Indian mother sitting at a dining table, the composition naturally divided by lighting: warm kitchen light on the left and cold dim window light on the right. On the left side, a full plate of freshly cooked food with visible steam in a clean, well-lit kitchen; on the right side, the same table appears worn and dim, with a nearly empty plate showing crumbs and fork scrape marks. A young child sits on the darker side, holding a spoon and looking quietly at the empty plate. A stack of Indian rupee notes is placed exactly at the center where the light transitions, unchanged but slightly worn (showing inflation, less food at same price). The mother’s expression shows worry and emotional strain. Background subtly more deteriorated on the darker side. Shallow depth of field, cinematic lighting, high detail, emotional, magazine cover composition --no charts, no graphs, no text, no labels, no infographic elements, no numbers",
+  "model": "DALL·E 3",
+  "dataset_name": "Consumer Price Index (CPI) Time Series 2012–2024",
+  "dataset_url": "https://www.cpi.mospi.gov.in/TimeSeries_2012.aspx",
+  "insight": "The same amount of money buys less food over time, as rising inflation erodes purchasing power"
+}
