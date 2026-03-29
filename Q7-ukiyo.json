@@ -1,0 +1,10 @@
+{
+  "prompt": "A wide ukiyo-e style image, canvas is mostly empty parchment (at least 85% empty space). There are 7-1 samurai figures in total — no more, no less. They are small but clearly visible, highly detailed, and scattered randomly across the space. They are NOT aligned, NOT grouped, NOT forming any pattern. LEFT side: exactly 3 red samurai + 1 blue samurai outlier. RIGHT side: exactly 2 blue samurai + 1 blue samurai partially inside the margin band. There is ONLY ONE bold, slightly tilted central line (SVM margin). Around it are exactly two very soft, wide beige parallel bands. NO other lines. NO grid. NO perspective lines. NO horses. NO armies. NO background elements. NO text. NO borders. Each samurai is isolated like a data point, with subtle varied poses (kneeling, standing, turning), but no interaction. Style: Japanese Edo-period ukiyo-e, flat colors, bold outlines, intricate clothing detail, no shading, no depth",
+  "model": "DALL·E",
+  "concept": "Support vector machine",
+  "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Flat color planes, bold contour lines, asymmetrical composition, traditional weapons & costume. Avoided perspective and shading to match ukiyo-e while embedding SVM geometry as dominant visual structure.",
+  "publish_email": true
+
+}
