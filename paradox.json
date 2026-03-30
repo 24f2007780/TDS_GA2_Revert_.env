@@ -1,0 +1,7 @@
+{
+  "prompt": "Wide cinematic surreal scene depicting a single decision space with two parallel paths that curve and merge into the exact same bright, identical glowing destination. On the left: a transparent glass tunnel, sharply defined, highly structured, and fully visible, containing a dense crowd of human figures—every person in the scene is inside this tunnel only, moving with clear direction and confidence. On the right: a path that is completely empty—zero people, no silhouettes, no traces of movement. This path is not clearly defined; it dissolves into dense fog and ambiguity with no visible edges, no stable surface, and no clear boundaries, appearing epistemically unknowable rather than simply obscured. Both paths are identical in trajectory and length, clearly converging to the same endpoint. Minimalist composition, soft cinematic lighting, high contrast between hyper-clarity and undefined uncertainty, subtly uncanny atmosphere, no text, no symbols, no numbers.",
+  "model": "DALL·E",
+  "paradox": "Ellsberg Paradox (Ambiguity Aversion)",
+  "visual_logic": "Two structurally identical options lead to the same outcome, but only the option with known, visible structure is chosen collectively, while the ambiguous, non-evaluable alternative is completely avoided, illustrating preference for known probabilities over unknown ones.",
+  "publish_email": true
+}
